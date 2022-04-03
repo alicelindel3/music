@@ -1,4 +1,4 @@
-# 【Magenta+Colab】Learn to compose music with AI!
+# 【Magenta+Colab】AI Music
 https://www.anaconda.com/
 (Download For Windows)
 
