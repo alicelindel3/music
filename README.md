@@ -11,14 +11,14 @@ https://numpy.org/doc/stable/reference/index.html
 https://matplotlib.org/stable/api/index.html
 (Matplotlib Reference)
 
-Section_3　Foundations of Python
+Python_Basic　Foundations of Python
 
-Section_4　Foundations of Mathematics
+Section_1
 
-Section_5　Linear algebra
+Section_2
 
-Section_6　Differential
+Section_3
 
-Section_7　Probability Statistics
+Section_4
 
-Section_8　Application to AI
+Section_5
