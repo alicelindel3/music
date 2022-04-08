@@ -5,6 +5,9 @@ https://gammasoft.jp/blog/google-colaboratory-for-learning/
 https://numpy.org/doc/stable/reference/index.html
 (NumPy Reference)
 
+https://matplotlib.org/stable/api/index.html
+(Matplotlib Reference)
+
 Python_Basic　Foundations of Python
 
 Section_1
