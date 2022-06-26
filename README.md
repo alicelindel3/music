@@ -1,4 +1,4 @@
-# 【Magenta+Colab】AI Music
+# 【Magenta+Colab】
 https://gammasoft.jp/blog/google-colaboratory-for-learning/
 (Google Colaboratory Python)
 
