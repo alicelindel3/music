@@ -1,12 +1,4 @@
 # 【Magenta+Colab】
-https://gammasoft.jp/blog/google-colaboratory-for-learning/
-(Google Colaboratory Python)
-
-https://numpy.org/doc/stable/reference/index.html
-(NumPy Reference)
-
-https://matplotlib.org/stable/api/index.html
-(Matplotlib Reference)
 
 Python_Basic　Foundations of Python
 
